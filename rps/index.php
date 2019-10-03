@@ -18,7 +18,7 @@ Attempt to go to
 <a href="game.php">game.php</a> without logging in - it should fail with an error message.
 <p>
 <a href="https://github.com/vimalverma558/coursera-test/tree/master/rps"
- target="_blank">Source Code for this Application</a>
+ target="_blank">Source code done for hacking purposes</a>
 </p>
 </div>
 </body>
