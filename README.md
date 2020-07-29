@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Coursera Test
+Coursera test repository
+These modules are from a course in coursera.
 
-You can use the [editor on GitHub](https://github.com/vimalverma558/coursera/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Module 2 and Module 3 are projects based on HTML, CSS with bootstrap. These are responsive web project.
+Module 4 is based on JavaScript. It prints the results in the console. Inspect the browser to see result.
+Module 5 is based on HTML, CSS with bootstrap and JavaScript . Full responsive website
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These modules has been bundled up and published in a github pages.
 
-### Markdown
+| Module | Links | Code |
+| --- | --- | --- |
+| Module 2 | [Module 2 Website](https://vimalverma558.github.io/coursera-test/module2-solution/) | [Module 2 Code](https://github.com/vimalverma558/coursera-test/tree/master/module2-solution) |
+| Module 3 | [Module 3 Website](https://vimalverma558.github.io/coursera-test/module3-solution/) | [Module 3 Code](https://github.com/vimalverma558/coursera-test/tree/master/module3-solution) |
+| Module 4 | [Module 4 Website](https://vimalverma558.github.io/coursera-test/module4-solution/) | [Module 4 Code](https://github.com/vimalverma558/coursera-test/tree/master/module4-solution) |
+| Module 5 | [Module 5 Website](https://vimalverma558.github.io/coursera-test/module5-solution/) | [Module 5 Code](https://github.com/vimalverma558/coursera-test/tree/master/module5-solution) |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vimalverma558/coursera/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thanks
