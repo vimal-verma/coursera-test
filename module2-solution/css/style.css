@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  background-image: repeating-linear-gradient(45red);
 }
 
 h1 {
