@@ -17,4 +17,4 @@ These modules has been bundled up and published in a github pages.<br />
 | Module 5 | [Module 5 Website](https://vimalverma558.github.io/coursera-test/module5-solution/) | [Module 5 Code](https://github.com/vimalverma558/coursera-test/tree/master/module5-solution) |
 
 <br />
-Thanks
+Thanks you
