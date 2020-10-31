@@ -14,7 +14,7 @@ partially done and serves only as a starting point for the assignment.
 <a href="login.php">Please Log In</a>
 </p>
 <p>
-Attempt to go to 
+Attempt to go to for
 <a href="game.php">game.php</a> without logging in - it should fail with an error message.
 <p>
 <a href="https://github.com/vimalverma558/coursera-test/tree/master/rps"
