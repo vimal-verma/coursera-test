@@ -11,10 +11,7 @@ These modules has been bundled up and published in a github pages.<br />
 
 | Module | Links | Code |
 | --- | --- | --- |
-| Module 2 | [Module 2 Website](https://vimalverma558.github.io/coursera-test/module2-solution/) | [Module 2 Code](https://github.com/vimalverma558/coursera-test/tree/master/module2-solution) |
-| Module 3 | [Module 3 Website](https://vimalverma558.github.io/coursera-test/module3-solution/) | [Module 3 Code](https://github.com/vimalverma558/coursera-test/tree/master/module3-solution) |
-| Module 4 | [Module 4 Website](https://vimalverma558.github.io/coursera-test/module4-solution/) | [Module 4 Code](https://github.com/vimalverma558/coursera-test/tree/master/module4-solution) |
-| Module 5 | [Module 5 Website](https://vimalverma558.github.io/coursera-test/module5-solution/) | [Module 5 Code](https://github.com/vimalverma558/coursera-test/tree/master/module5-solution) |
-
-<br />
-Thanks
+| Module 2 | [Module 2 Website](https://vimal-verma.github.io/coursera-test/module2-solution/) | [Module 2 Code](https://github.com/vimalverma558/coursera-test/tree/master/module2-solution) |
+| Module 3 | [Module 3 Website](https://vimal-verma.github.io/coursera-test/module3-solution/) | [Module 3 Code](https://github.com/vimalverma558/coursera-test/tree/master/module3-solution) |
+| Module 4 | [Module 4 Website](https://vimal-verma.github.io/coursera-test/module4-solution/) | [Module 4 Code](https://github.com/vimalverma558/coursera-test/tree/master/module4-solution) |
+| Module 5 | [Module 5 Website](https://vimal-verma.github.io/coursera-test/module5-solution/) | [Module 5 Code](https://github.com/vimalverma558/coursera-test/tree/master/module5-solution) |
